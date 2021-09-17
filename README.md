@@ -1,12 +1,12 @@
 # Features Extraction Experiment
 
-This readme aims to help you to prepare the technical environment of the experiment.
+This read.me aims to help you to prepare the technical environment of the experiment.
 
 ## Tool Installation
 
 ### Downloading and Installing Eclipse IDE
 
-You’ll need to download and install a fresh version of the Eclipse for JAVA developpers from the [Eclipse Download Page](https://www.eclipse.org/downloads/).
+You’ll need to download and install a fresh version of the Eclipse for JAVA developers from the [Eclipse Download Page](https://www.eclipse.org/downloads/).
 Download and unizip the file "**_eclipse-workspace-features.zip_**". Open Eclipse on this workspace.
 
 <img width="599" alt="Capture d’écran, le 2021-09-17 à 15 24 46" src="https://user-images.githubusercontent.com/37906695/133843061-c0574389-c2eb-4b8b-8548-1161aff777b9.png">
@@ -19,27 +19,27 @@ Select "Help" from the toolbar menu → "install new software". Select "add" but
 
 <img width="510" alt="Capture d’écran, le 2021-09-17 à 15 33 22" src="https://user-images.githubusercontent.com/37906695/133843906-7682ad2c-e13a-4986-8d8f-e2d9e32c4806.png">
 
-Unckeck the option "Group items by category": 
+Uncheck the option "Group items by category": 
 
 <img width="809" alt="Capture d’écran, le 2021-09-17 à 15 35 30" src="https://user-images.githubusercontent.com/37906695/133844303-bf5176bd-1536-47f7-b6f6-90fe9e85e3be.png">
 
-Follow the instructions until the end of the pugin's installation.
+Follow the instructions until the end of the plugin's installation.
 
 ## Getting started with Features Extraction Tool
 
 ### Adding Plugin Views
 
-Select "Window" from the toolbar menu → Show View → other ... → other. Select Lattice Graph and Lattice node. Put the views in this layout:
+Select "Window" from the toolbar menu → Show View → other ... → other. Select Lattice Graph and Lattice nodes. Put the views in this layout:
 
 <img width="1225" alt="Capture d’écran, le 2021-09-17 à 15 45 55" src="https://user-images.githubusercontent.com/37906695/133845202-8fe9371e-c124-454c-8cd6-0fb173d00c9b.png">
 
-### Generate and Visualising Your First Lattice Graph
+### Generate and Visualizing Your First Lattice Graph
 
-To use the features extraction plugin, click on the funnel icon at the top of the window :
+To use the feature extraction plugin, click on the funnel icon at the top of the window :
 
 <img width="485" alt="Capture d’écran, le 2021-09-17 à 15 48 07" src="https://user-images.githubusercontent.com/37906695/133845629-ea0d6d2c-b6bd-435d-a07f-0e7d50a80513.png">
 
-Select a project to analyse : 
+Select a project to analyze : 
 
 <img width="421" alt="Capture d’écran, le 2021-09-17 à 16 01 51" src="https://user-images.githubusercontent.com/37906695/133846908-4aa0140c-ae2d-4810-8173-f1879832f52b.png">
 
@@ -53,4 +53,4 @@ The .ltc files of the workspace's project are already generated.
 
 ### Navigating Accross Lattice Nodes
 
-Click on the lattice's node to get informations about the extent and the intent of each node. these informations are displayed in the "lattice node" view
+Click on the lattice's node to get information about the extent and the intent of each node. this information is displayed in the "lattice node" view
