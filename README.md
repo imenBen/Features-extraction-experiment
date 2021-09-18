@@ -6,7 +6,7 @@ This read.me aims to help you to prepare the technical environment of the experi
 
 ### Downloading and Installing Eclipse IDE
 
-You’ll need to download and install a fresh version of the Eclipse for JAVA developers from the [Eclipse Download Page](https://www.eclipse.org/downloads/).
+You’ll need to download and install a fresh version of Eclipse IDE for JAVA developers from the [Eclipse Download Page](https://www.eclipse.org/downloads/).
 Download and unizip the file "**_eclipse-workspace-features.zip_**". Open Eclipse on this workspace.
 
 <img width="599" alt="Capture d’écran, le 2021-09-17 à 15 24 46" src="https://user-images.githubusercontent.com/37906695/133843061-c0574389-c2eb-4b8b-8548-1161aff777b9.png">
