@@ -33,7 +33,7 @@ Select "Window" from the toolbar menu → Show View → other ... → other. Sel
 
 <img width="1225" alt="Capture d’écran, le 2021-09-17 à 15 45 55" src="https://user-images.githubusercontent.com/37906695/133845202-8fe9371e-c124-454c-8cd6-0fb173d00c9b.png">
 
-### Generate and Visualizing Your First Lattice Graph
+### Generating and Visualizing Your First Lattice Graph
 
 To use the feature extraction plugin, click on the funnel icon at the top of the window :
 
