@@ -53,4 +53,4 @@ The .ltc files of the workspace's project are already generated.
 
 ### Navigating Accross Lattice Nodes
 
-Click on a lattice node to get information about the extent and the intent of each node. This information is displayed in the "lattice node" view
+Click on a lattice node to get information about its extent and intent. This information is displayed in the "lattice node" view
