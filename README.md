@@ -23,7 +23,7 @@ Uncheck the option "Group items by category":
 
 <img width="809" alt="Capture d’écran, le 2021-09-17 à 15 35 30" src="https://user-images.githubusercontent.com/37906695/133844303-bf5176bd-1536-47f7-b6f6-90fe9e85e3be.png">
 
-Follow the instructions until the end of the plugin's installation.
+Follow the instructions until the end of the plugin installation.
 
 ## Getting started with Features Extraction Tool
 
